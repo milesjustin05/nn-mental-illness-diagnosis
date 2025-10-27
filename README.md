@@ -11,3 +11,4 @@ The mental illnesses in question are :
 8. BPD (Borderline Personality Disorder)
 
 The table was helped designed by this ChatGPT chat: https://chatgpt.com/share/68ffb5ba-53e0-8007-be80-b4860f8dcbc1
+The MAML code was taken from https://www.codegenes.net/blog/maml-pytorch/ and was modified by ChatGPT to make more efficient.
