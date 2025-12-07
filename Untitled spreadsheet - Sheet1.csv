@@ -1,9 +1,0 @@
-Source,Anxiety,Panic,Sadness,Lack of Interest,Irrability,Sleeping Problems,Energy Problems,Attention Problems,Impulsivity,Intrusive Thoughts,Compulsivity,Flashbacks,Avoidance,Mood Swings,Self-Harm,Emotional Instability,Fear of abandonment,Hypervigilance,Somatic Symptoms,Dissociation
-GPT GAD,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0
-GPT PANIC,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
-GPT MDD,0,0,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-GPT BIPOLAR,0,0,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,0
-GPT ADHD,0,0,0,0,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0
-GPT OCD,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
-GPT PTSD,1,1,1,1,1,1,1,1,0,1,0,1,1,0,1,1,0,1,1,1
-GPT BPD,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1
